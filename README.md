@@ -111,10 +111,8 @@ Please also download the following programs and install on your laptop:
 ---
 
 ## Lab protocols and other training resources:
-- Influenza PCR protocol
-- RSV PCR protocol
-- ONT sequencing protocol
-- Training worksheet
-
-
+- [Influenza PCR protocol](https://raw.githubusercontent.com/clyde-dapat/ngs-training-india.github.io/main/materials/influenza_PCR_protocol.pdf)
+- [RSV PCR protocol](https://raw.githubusercontent.com/clyde-dapat/ngs-training-india.github.io/main/materials/RSV_PCR_protocol.pdf)
+- [ONT sequencing protocol](https://raw.githubusercontent.com/clyde-dapat/ngs-training-india.github.io/main/materials/ONT_sequencing_protocol.pdf)
+- [Training worksheet](https://raw.githubusercontent.com/clyde-dapat/ngs-training-india.github.io/main/materials/worksheet.xlsx)
 
