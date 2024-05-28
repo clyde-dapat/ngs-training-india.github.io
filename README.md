@@ -2,7 +2,6 @@
 
 Publications to read:
 - [A primer on sequencing technology](https://www.nature.com/articles/nrg2626) - In depth review of sequencing technology
-- [Twenty years of bacterial genome sequencing](https://www.nature.com/articles/nrmicro3565) - Discusses the history of sequencing technology
 - [So you want to be a computational biologist?](https://www.nature.com/articles/nbt.2740) - Advice by two bioinformaticians
 
 Videos to watch before the course start:
