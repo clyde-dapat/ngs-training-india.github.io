@@ -39,15 +39,15 @@ Please also download the following programs and install on your laptop:
 |             | Pre-course quiz                                       |                    |
 |             | Group photo                                           |                    |
 | 1030-1100 | Morning tea                                           |                    |
-| 1100-1200 | Lecture 1: eGISRS genomic surveillance of influenza and RSV | Yi-Mo Deng               |
-|           | Lecture 2: Overview of wet lab training               | Yi-Mo Deng         |
-|           | Lecture 3: Overview of bioinformatics traininig       | Clyde Dapat        |
+| 1100-1200 | [Lecture 1: eGISRS genomic surveillance of influenza and RSV](https://raw.githubusercontent.com/clyde-dapat/ngs-training-india.github.io/main/presentations/Lecture_1_Pune_workshop_NGS_intro.pdf) | Yi-Mo Deng               |
+|           | [Lecture 2: Overview of wet lab training](https://raw.githubusercontent.com/clyde-dapat/ngs-training-india.github.io/main/presentations/Lecture_2_Wet_lab_outline.pdf)               | Yi-Mo Deng         |
+|           | [Lecture 3: Overview of bioinformatics traininig](https://raw.githubusercontent.com/clyde-dapat/ngs-training-india.github.io/main/presentations/Lecture_3_Overview_bioinformatics.pdf)        | Clyde Dapat        |
 | 1200-1230 | Computer set-up                                         |                    |
 | 1230-1330 | Lunch                                                 |                    |
 | 1330-1430 | RT-PCR set-up for Flu A/B NGS                         | Yi-Mo Deng         |
 | 1430-1500 | Afternoon tea                                         |                    |
 | 1500-1600 | RT-PCR set-up for RSV NGS                             | Yi-Mo Deng         |
-| 1600-1700 | Lecture 4: Bioinformatics for Flu and RSV NGS         | Clyde Dapat        |
+| 1600-1700 | [Lecture 4: Bioinformatics for Flu and RSV NGS](https://raw.githubusercontent.com/clyde-dapat/ngs-training-india.github.io/main/presentations/Lecture_4_Bioinformatics_Flu_RSV.pdf)          | Clyde Dapat        |
 
 
 ## Day 2 - 2024-06-04
