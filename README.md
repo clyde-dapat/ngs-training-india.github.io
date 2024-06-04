@@ -76,9 +76,9 @@ Please also download the following programs and install on your laptop:
 | 1100-1230 | [Quality control with FastQC](https://raw.githubusercontent.com/clyde-dapat/ngs-training-india.github.io/main/presentations/Lecture_5_FastQC.pdf)                           | Clyde Dapat        |
 |           | [FastQC data](https://raw.githubusercontent.com/clyde-dapat/ngs-training-india.github.io/main/data/N10071616_SA32.fastq.gz)                                                 |                    |
 | 1230-1330 | Lunch                                                 |                    |
-| 1330-1500 | Genome assembly - Flu                                 | Clyde Dapat        |
+| 1330-1500 | [Genome assembly - Flu](https://raw.githubusercontent.com/clyde-dapat/ngs-training-india.github.io/main/presentations/Lecture_6-1_Genome_Assembly.pdf)                                 | Clyde Dapat        |
 | 1500-1530 | Afternoon tea                                         |                    |
-| 1530-1700 | Genome assembly - Flu ([data](https://raw.githubusercontent.com/clyde-dapat/ngs-training-india.github.io/main/data/N10071616_SA32.fastq.gz)   )                                 |                    |
+| 1530-1700 | [Genome assembly - Flu](https://raw.githubusercontent.com/clyde-dapat/ngs-training-india.github.io/main/presentations/Lecture_6-2_Genome_Assembly_Insaflu.pdf) ([data](https://raw.githubusercontent.com/clyde-dapat/ngs-training-india.github.io/main/data/N10071616_SA32.fastq.gz))                                 |                    |
 
 ## Day 4 - 2024-06-06
 
