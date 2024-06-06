@@ -92,7 +92,7 @@ Please also download the following programs and install on your laptop:
 | 1100-1230 | Genome assembly - RSV ([dataset](https://raw.githubusercontent.com/clyde-dapat/ngs-training-india.github.io/main/data/Galaxy.zip))                       |                    |
 | 1230-1330 | Lunch                                                 |                    |
 | 1330-1430 | [QC on consensus sequences](https://raw.githubusercontent.com/clyde-dapat/ngs-training-india.github.io/main/presentations/Lecture_7_QC_on_consensus_sequences_generated.pdf)                             | Clyde Dapat        |
-|           | QC on consensus sequences ([dataset](https://raw.githubusercontent.com/clyde-dapat/ngs-training-india.github.io/main/data/Consensus.zip))                 |                    |
+|           | QC on consensus sequences ([dataset](https://raw.githubusercontent.com/clyde-dapat/ngs-training-india.github.io/main/data/Consensus.zip))|         |
 | 1430-1500 | Afternoon tea                                         |                    |
 | 1500-1700 | [Online tools (Nextstrain, Nextclade, FluSurver)](https://raw.githubusercontent.com/clyde-dapat/ngs-training-india.github.io/main/presentations/Lecture_8_Nextstrain_Flusurver.pdf)       | Clyde Dapat        |
 |           | Online tools ([dataset](https://raw.githubusercontent.com/clyde-dapat/ngs-training-india.github.io/main/data/gisaid_epiflu_sequence_Australia.fasta))                                |                    |
