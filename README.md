@@ -101,11 +101,12 @@ Please also download the following programs and install on your laptop:
 
 | Time        | Activities                                            | Speaker            |
 |-------------|-------------------------------------------------------|--------------------|
-| 0900-1030 | Phylogenetic analysis                                 | Clyde Dapat        |
+| 0900-1030 | Phylogenetic analysis ([part 1](https://raw.githubusercontent.com/clyde-dapat/ngs-training-india.github.io/main/presentations/Lecture_9_Phylogenetics_part1.pdf), [part 2](https://raw.githubusercontent.com/clyde-dapat/ngs-training-india.github.io/main/presentations/Lecture_9_Phylogenetics_part2.pdf))                                 | Clyde Dapat        |
 | 1030-1100 | Morning tea                                           |                    |
-| 1100-1230 | Phylogenetic analysis                                 |                    |
+| 1100-1230 | [Phylogenetic analysis - dataset](https://raw.githubusercontent.com/clyde-dapat/ngs-training-india.github.io/main/data/Australia_0423.fasta)                                 |                    |
 | 1230-1330 | Lunch                                                 |                    |
-| 1330-1430 | Uploading sequences to GISAID                         | Clyde Dapat        |
+| 1330-1430 | [Uploading sequences to GISAID](https://raw.githubusercontent.com/clyde-dapat/ngs-training-india.github.io/main/presentations/Lecture_10_Uploading_sequences_to_GISAID.pdf)                         | Clyde Dapat        |
+|           | [Uploading sequences to GISAID - dataset](https://raw.githubusercontent.com/clyde-dapat/ngs-training-india.github.io/main/data/SA_32.fasta)               |                    |
 | 1430-1500 | Open forum, Q&A                                       |                    |
 | 1500-1530 | Afternoon tea                                         |                    |
 | 1530-1600 | Post-course quiz and course evaluation                |                    |
