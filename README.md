@@ -109,7 +109,7 @@ Please also download the following programs and install on your laptop:
 |           | [Uploading sequences to GISAID - dataset](https://raw.githubusercontent.com/clyde-dapat/ngs-training-india.github.io/main/data/SA_32.fasta)               |                    |
 | 1430-1500 | Open forum, Q&A                                       |                    |
 | 1500-1530 | Afternoon tea                                         |                    |
-| 1530-1600 | Post-course quiz and course evaluation                |                    |
+| 1530-1600 | Post-course quiz and [course evaluation](https://forms.office.com/r/ksiYug4qkD)                |                    |
 | 1600-1700 | Awarding of certificates and closing remarks          |                    |
 
 ---
